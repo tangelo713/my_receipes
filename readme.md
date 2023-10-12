@@ -1,5 +1,4 @@
-Set of recipes as given by my grandma.
-
+Clan secret recipes
 
 - pizzas
 - sauces (TODO)
